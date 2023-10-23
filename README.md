@@ -1,4 +1,4 @@
-// Author Your Name
+// Hunter Bowman and Cade Clemons
 // Description: Hello World in C++
 //============================================================
 main
